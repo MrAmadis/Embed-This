@@ -8,3 +8,5 @@ After you have done those steps, simply install the following dependencies:
 - pychalk
 
 After this, open the bot file in an IDE or text editor and input your token and desired role.
+
+As chalk is used, using Windows' CMD will not be recommended. If you're on a UNIX based OS the bash console works fine. To see the pretty colours in Windows, download and install ConEmu and use that as your terminal.
