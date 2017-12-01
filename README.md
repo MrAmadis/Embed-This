@@ -16,3 +16,6 @@ The bot has a very simple set of commands.
 - help: lists all commands.
 - embed: embeds the text that follows the command, using the regular colour and your profile picture as the thumbnail.
 - rembed: embeds the text that follows the command, using a specified colour (asked after the command is executed) and a specified thumbnail (asked after the colour is statesd).
+
+### Using the code in your own projects
+Use is permitted with credit, as long as `Made by Da532` is cited in the footer or something use is okay.
